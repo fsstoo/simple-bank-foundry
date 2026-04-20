@@ -1,0 +1,16 @@
+# Foundry
+out/
+cache/
+broadcast/
+
+# Environment
+.env
+
+# Node (if any)
+node_modules/
+
+# OS junk
+.DS_Store
+
+# Logs
+*.log
